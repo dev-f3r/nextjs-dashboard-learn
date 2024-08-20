@@ -37,3 +37,4 @@ next-env.d.ts
 
 # vscode
 .vscode/
+route-sample of how to populate a postgres db.ts
